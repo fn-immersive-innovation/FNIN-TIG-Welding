@@ -1,0 +1,11 @@
+Model Information:
+* title:	Welding machine #2
+* source:	https://sketchfab.com/3d-models/welding-machine-2-040ef5ef8898465b9ab2be71eab2cebe
+* author:	Ilia_S (https://sketchfab.com/I.sln)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Welding machine #2" (https://sketchfab.com/3d-models/welding-machine-2-040ef5ef8898465b9ab2be71eab2cebe) by Ilia_S (https://sketchfab.com/I.sln) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
